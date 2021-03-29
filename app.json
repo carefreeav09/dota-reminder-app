@@ -1,0 +1,12 @@
+{
+  "name": "dota-reminder-app",
+  "displayName": "dota-reminder-app",
+  "expo": {
+    "name": "dota-reminder-app",
+    "slug": "dota-reminder-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
