@@ -1,10 +1,11 @@
 import React from 'react';
-import {View} from "react-native";
+import {View, Text} from "react-native";
 
 const RecentMatches = () => {
     return (
         <View>
-            I am a recent match
+            <Text>I am a recent match</Text>
+
         </View>
     );
 };

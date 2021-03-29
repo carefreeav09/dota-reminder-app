@@ -3,7 +3,14 @@ import {Dimensions, ImageBackground, StyleSheet, Text, View} from "react-native"
 
 import SplashImage from '../assets/dota2bg.jpg';
 
-const HomeScreen = () => {
+const HomeScreen = ({navigation}) => {
+
+    React.useEffect(() => {
+        setTimeout(() => {
+            navigation.push('DashboardStack')
+        }, 3000)
+    }, []);
+
     return (
         <View style={styles.container}>
             <ImageBackground source={SplashImage} style={styles.image}>
