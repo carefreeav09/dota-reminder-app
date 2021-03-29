@@ -2,7 +2,7 @@
 
 By: Aabhushan Gautam
 
-#Objective
+# Objective
 
 The main objective of the app is to give me recommendations in-game based on current game time events.
 I am a scatterbrain , and  I cannot focus on anything most of the times. Most of my games, I find myself 
@@ -15,14 +15,14 @@ And thats the origin story of the app. The app will also work as a alternative t
 
 To polish my skills as a React Native Developer. 
 
-##Libraries used
+## Libraries used
 
 1. Create React Native App (https://reactnative.dev/blog/2017/03/13/introducing-create-react-native-app)
 2. React Navigation (https://reactnavigation.org)
 
 More to be added. This is the initial project setup.
 
-#Available
+# Available
 
 App is available in both Android and IOS. I am not sure if i can deploy it to stores though, not sure if i can afford that.
 
